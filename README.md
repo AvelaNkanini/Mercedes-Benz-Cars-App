@@ -1,1 +1,2 @@
-This is cool Practical App where you browse different kinds of mercedes Benz. It is an important part on my moblie dev journey I am currently learning about working with pictures.
+This is a cool, practical app that allows you to browse different kinds of Mercedes-Benz.
+It is an important part of my mobile dev journey. I am currently learning about working with pictures.
